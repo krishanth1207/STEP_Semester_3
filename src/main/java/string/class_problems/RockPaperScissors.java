@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class RockPaperScissors {
 
-    // Method to check who wins a round
+    
     public static String playRound(String playerMove, String computerMove) {
         if (playerMove.equalsIgnoreCase(computerMove)) {
             return "Draw";
@@ -37,7 +37,7 @@ public class RockPaperScissors {
             System.out.print("Round " + i + " - Enter move (Rock, Paper, Scissors): ");
             String playerMove = scanner.nextLine();
 
-            // Computer picks a random move
+            
             int randomIndex = random.nextInt(3);
             String computerMove = moves[randomIndex];
 
@@ -53,7 +53,7 @@ public class RockPaperScissors {
             }
         }
 
-        // Print final summary
+        
         double winPercentage = ((double) wins / totalRounds) * 100;
         System.out.println("=== Final Summary ===");
         System.out.println("Wins: " + wins + " | Losses: " + losses + " | Draws: " + draws + " | Win % = " + winPercentage + "%");
