@@ -2,14 +2,14 @@
 
 ## Date: 04-09-2026
 **Today's Work:**
-Completed Session 3 Class Problems in feature/session_3 branch:
+Completed Session 4 Class Problems in feature/session_3 branch:
 - TwoSum
 - Stocks
 - DuplicateChecker
 - MergeSortedArrays
 
 **Next Session Plan:**
-Work on Session 3 Assignment Problems.
+Work on Session 4 Assignment Problems.
 
 **Issues Faced:**
 - Fixed DuplicateChecker loop index bug (j initialized to i + 1 instead of i).
