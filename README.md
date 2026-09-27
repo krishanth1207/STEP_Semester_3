@@ -1,5 +1,35 @@
 # STEP_Semester_3
 
+# STEP_Semester_3
+
+## Date: 27-09-2026
+**Today's Work:**
+Completed Session 4 in feature/session_4 branch:
+1. Class Problems:
+   - TwoSum
+   - Stocks
+   - DuplicateChecker
+   - MergeSortedArrays
+2. Assignment Problems:
+   - ArrayProduct
+   - MaxSubarray
+   - ThreeSum
+   - SubarraySumEqualsK
+   - FindMinRotatedArray
+
+**Next Session Plan:**
+Prepare for Session 5 topic and set up feature/session_5.
+
+**Issues Faced:**
+- None
+
+---
+
+## Date: 04-09-2026
+**Today's Work:**
+Completed Session 2 in feature/session_2 branch:
+...
+
 ## Date: 04-09-2026
 **Today's Work:**
 Completed Session 4 Class Problems in feature/session_3 branch:
