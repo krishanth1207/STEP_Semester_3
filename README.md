@@ -2,6 +2,40 @@
 
 # STEP_Semester_3
 
+# STEP_Semester_3
+
+## Date: 27-09-2026
+**Today's Work:**
+Completed Sessions 5, 6, 7, and 8 in their respective feature branches:
+
+1. **Session 5 (Arrays & Object Overloading)**:
+   - Class Problems: ScoreBooster, DuplicateTeamFinder, PodiumFinder, SeatingGridOptimizer, PlacementEngine
+   - Assignment Problems: ScoreMultiplier, DuplicatePickChecker, TopPerformerTracker, MatchGridAnalyzer, AutoDraftEngine
+
+2. **Session 6 (OOP Foundations & Encapsulation)**:
+   - Class Problems: PlacementRecord, MessWallet, Course, IdCard, Student
+   - Assignment Problems: BookInventory, PayrollAccount, EmployeeProfile, HallTicket, CompanyEmployee
+
+3. **Session 7 (Encapsulation & Access Control)**:
+   - Class Problems: PiggyBank, Scorecard, NameTag, Locker, AttendanceSheet
+   - Assignment Problems: HealthBar, Playlist, PasswordChecker, TrafficLight, Cart
+
+4. **Session 8 (Inheritance & Polymorphism)**:
+   - Class Problems: PaymentSystem, LibrarySystem, DeliverySystem, ExaminationGrader, TransportSystem
+   - Assignment Problems: CanteenBilling, ParkingCalculator, ElectricityBill, FestivalBonus, StreamingRenewal
+
+**Next Session Plan:**
+Merge feature branches into develop and prepare for upcoming topics.
+
+**Issues Faced:**
+- Resolved file casing issue with Scorecard.java in Session 7.
+
+---
+
+## Date: 27-09-2026
+**Today's Work:**
+Completed Session 4 in feature/session_4 branch...
+
 ## Date: 27-09-2026
 **Today's Work:**
 Completed Session 4 in feature/session_4 branch:
