@@ -64,7 +64,10 @@ class BankTransferPayment extends Payment {
 public class PaymentSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        if (!scanner.hasNextInt()) return;
+        if (!scanner.hasNextInt()) {
+            scanner.close();
+            return;
+        }
         int n = scanner.nextInt();
 
         Payment[] payments = new Payment[n];

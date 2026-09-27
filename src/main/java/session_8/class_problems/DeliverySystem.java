@@ -69,7 +69,10 @@ class InternationalDelivery extends Delivery {
 public class DeliverySystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        if (!scanner.hasNextInt()) return;
+        if (!scanner.hasNextInt()) {
+            scanner.close();
+            return;
+        }
         int n = scanner.nextInt();
 
         Delivery[] deliveries = new Delivery[n];

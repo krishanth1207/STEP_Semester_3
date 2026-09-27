@@ -71,7 +71,10 @@ class MetroTransport extends Transport {
 public class TransportSystem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        if (!scanner.hasNextInt()) return;
+        if (!scanner.hasNextInt()) {
+            scanner.close();
+            return;
+        }
         int n = scanner.nextInt();
 
         Transport[] journeys = new Transport[n];
