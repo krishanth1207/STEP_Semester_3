@@ -4,6 +4,18 @@
 
 # STEP_Semester_3
 
+## Date: 10-10-2026
+**Today's Work:**
+Completed Sessions 9 and 10 in their respective feature branches:
+
+1. **Session 9 (Abstraction & Interfaces)**:
+   - Class Problems: GardenPlotReport, WeeklyStaffPay, LibraryLateFineCounter, ElectricityBilling, TravelBookingFee
+   - Assignment Problems: MovieTicketCounter, ParcelShippingDesk, CollegeFeeCounter, CityCabFareMeter, HomeApplianceEnergy
+
+2. **Session 10 (Core Logic & Algorithm Foundations)**:
+   - Class Problems: VowelConsonantCounter, WordReverserPalindrome, EvenOddCounter, ArrayInPlaceReversal, DigitSumAndReversal, PrimeNumberChecker, FactorialCalculator, GradeAssignment, LeapYearDetector, StudentResultCard
+   - Assignment Problems: BusiestBusRow, ClassAttendanceTracker, DutyRosterRotation, ExamScoreBandCounter, SecondBestScore
+
 ## Date: 27-09-2026
 **Today's Work:**
 Completed Sessions 5, 6, 7, and 8 in their respective feature branches:
@@ -23,6 +35,7 @@ Completed Sessions 5, 6, 7, and 8 in their respective feature branches:
 4. **Session 8 (Inheritance & Polymorphism)**:
    - Class Problems: PaymentSystem, LibrarySystem, DeliverySystem, ExaminationGrader, TransportSystem
    - Assignment Problems: CanteenBilling, ParkingCalculator, ElectricityBill, FestivalBonus, StreamingRenewal
+
 
 **Next Session Plan:**
 Merge feature branches into develop and prepare for upcoming topics.
