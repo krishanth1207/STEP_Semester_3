@@ -1,8 +1,15 @@
 # STEP_Semester_3
 
-# STEP_Semester_3
+## Date: 31-10-2026
+**Today's Work:**
+Completed Session 11 sorting algorithm problems on `feature/session_11` and merged into `develop`:
 
-# STEP_Semester_3
+1. **Session 11 (Sorting Algorithms)**:
+   - Problem 1: `HeightLineUp` (Bubble Sort with pass-by-pass visualization)
+   - Problem 2: `PrizeTable` (Selection Sort in descending order with swap count)
+   - Problem 3: `LibraryBookShelf` (Insertion Sort step-by-step shelf placement)
+   - Problem 4: `QueueOrderChecker` (Queue order linear check for first break index)
+   - Problem 5: `DiceThrowTally` (Counting Sort using frequency array)
 
 ## Date: 10-10-2026
 **Today's Work:**
