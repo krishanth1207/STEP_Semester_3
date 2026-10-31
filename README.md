@@ -1,15 +1,27 @@
 # STEP_Semester_3
-
 ## Date: 31-10-2026
 **Today's Work:**
 Completed Session 11 sorting algorithm problems on `feature/session_11` and merged into `develop`:
 
-1. **Session 11 (Sorting Algorithms)**:
+1. **Session 11 — Class Problems**:
+   - `LibraryCatalogLookup` (Binary Search over sorted ISBN records)
+   - `WarehouseBinScan` (2D grid traversal for total and peak coordinates)
+   - `TransactionDuplicateCheck` (HashSet duplicate detection)
+   - `EmployeeDirectoryLookup` (HashMap lookup optimization)
+   - `UnsortedPairSum` (Hash-based complement pair search)
+   - `BestStockTrade` (Single-pass minimum price tracking)
+   - `SearchInsertPosition` (Binary search insertion index lookup)
+   - `SpiralGridTraversal` (4-pointer clockwise 2D boundary iteration)
+   - `SortedPairSum` (Two-pointer target sum search on sorted array)
+   - `RemoveSortedDuplicatesInPlace` (Two-pointer in-place deduplication)
+
+2. **Session 11 — Assignment Problems**:
    - Problem 1: `HeightLineUp` (Bubble Sort with pass-by-pass visualization)
    - Problem 2: `PrizeTable` (Selection Sort in descending order with swap count)
    - Problem 3: `LibraryBookShelf` (Insertion Sort step-by-step shelf placement)
    - Problem 4: `QueueOrderChecker` (Queue order linear check for first break index)
    - Problem 5: `DiceThrowTally` (Counting Sort using frequency array)
+
 
 ## Date: 10-10-2026
 **Today's Work:**
